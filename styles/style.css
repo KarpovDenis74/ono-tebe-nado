@@ -58,7 +58,7 @@
 
 }
 
-.header__address  {
+.header__address {
   display: flex;
   flex-direction: column;
   font-size: 18px;
@@ -80,7 +80,7 @@
   display: flex;
   flex-direction: column;
   position: relative;
-  background: url(/images/cover.jpg) center/cover; 
+  background: url(../images/cover.jpg) center/cover;
   height: 757px;
   width: 1440px;
 
