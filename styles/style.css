@@ -226,7 +226,7 @@
 }
 
 .card_type_film {
-  background: url(/images/card-lot-01.jpg) 100%;
+  background: url(../images/card-lot-01.jpg) 100%;
   width: 430px;
   height: 450px;
   background-size: cover;
@@ -234,7 +234,7 @@
 
 .card_type_book {
 
-  background: url(/images/card-lot-02.jpg);
+  background: url(../images/card-lot-02.jpg);
   width: 430px;
   height: 450px;
   background-size: cover
@@ -242,7 +242,7 @@
 
 .card_type_picture {
 
-  background: url(/images/card-lot-03.jpg);
+  background: url(../images/card-lot-03.jpg);
   width: 430px;
   height: 450px;
   background-size: cover
@@ -352,7 +352,7 @@
   display: flex;
   flex-wrap: nowrap;
   width: 1440px;
-  height: 300px;
+  height: 187px;
   justify-content:center ;
   align-content: center;
   padding: 0 50px;
