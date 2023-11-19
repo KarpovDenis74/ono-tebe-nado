@@ -5,9 +5,23 @@
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   min-width: 1100px;
+  font-family: Raleway, serif;
+
   margin: 0;
-  font-family: Raleway, sans-serif;
+
+
+  /* display: grid;
+  grid-template-rows: 276px 600px 257px 200px 580px 200px  490px 200px 100px 100px;
+  grid-template-columns: 1fr 50px 430px 25px 430px 25px 430px 50px; */
+
+
+
+  
 }
 
 h1,
